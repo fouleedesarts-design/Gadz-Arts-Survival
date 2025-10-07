@@ -206,7 +206,7 @@ nav ul li a.active {
 }
 
 .video-player {
-    postion: relative
+    position: absolute;
     width: 60%;
     padding-bottom: 16/9*60%; /* Ratio 16:9 */
     height: 0;
