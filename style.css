@@ -206,11 +206,11 @@ nav ul li a.active {
 }
 
 .video-player {
-    position: absolute;
+    align-items: center;
+    position: relative;
     width: 60%;
     padding-bottom: 16/9*60%; /* Ratio 16:9 */
     height: 0;
-    align-items: center;
     background-color: #000;
     border-radius: 8px;
     overflow: hidden;
